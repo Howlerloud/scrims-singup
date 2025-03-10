@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(18, 18, 18);
+    background-size: cover;
+    min-height: 100vh;
+    color:white;
+}
+.navbar {
+    background-color: rgb(18, 18, 18);
+    background-size: cover;
+    color:white;
+}
+.col {
+    border:
+    1px
+    solid
+  black;
+    width:100%;
+}
+div {
+    display: block;
+}
